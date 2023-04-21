@@ -1,17 +1,6 @@
 streamlit
-pycaret==3.0.0
-cartopy==0.21.1
-pydot==1.4.2
-from google.colab import drive
 pandas
 numpy
-matplotlib.pyplot
-from sklearn.impute import KNNImputer
-pickle
-io
-os
-from scipy.signal import butter
-from sklearn.pipeline import make_pipeline 
-from sklearn.preprocessing import StandardScaler
-from sklearn.neighbors import KNeighborsClassifier as KNN
-from sklearn.model_selection import StratifiedKFold, cross_val_score
+matplotlib
+scikit-learn
+cartopy
