@@ -1,9 +1,9 @@
 streamlit
 pandas
 numpy
+from google.colab import drive
 from sklearn.impute import KNNImputer
 matplotlib
-from google.colab import drive
 cartopy
 pickle
 io
