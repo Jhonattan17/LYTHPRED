@@ -10,6 +10,8 @@ Original file is located at
 import streamlit as st
 import pandas as pd
 import numpy as np
+from google.colab import drive
+import matplotlib.pyplot as plt
 from sklearn.impute import KNNImputer
 import cartopy
 import pickle
