@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-matplotlib==0.1.6
+matplotlib==0.11.9
 scikit-learn
 cartopy
