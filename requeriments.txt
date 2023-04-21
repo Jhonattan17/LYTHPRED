@@ -5,7 +5,6 @@ pydot==1.4.2
 from google.colab import drive
 pandas
 numpy
-missingno
 matplotlib.pyplot
 from sklearn.impute import KNNImputer
 pickle
